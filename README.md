@@ -3,4 +3,7 @@ estava querendo testar o argc e o argv em C, então fiz um contador de caractere
 ## Como usar:
 ``
 $ ./count <seu texto>
+``<br>
+``
+P$ countW.exe <seu texto>
 ``
